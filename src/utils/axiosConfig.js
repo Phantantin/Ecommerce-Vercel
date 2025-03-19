@@ -1,5 +1,5 @@
-// export const base_url ="https://api-backend-ecommerce.vercel.app/api/";
-export const base_url ="https://api-ecommerce-beta.vercel.app/api/";
+export const base_url ="http://localhost:4000/api/";
+// export const base_url ="https://api-ecommerce-beta.vercel.app/api/";
 
 
 
